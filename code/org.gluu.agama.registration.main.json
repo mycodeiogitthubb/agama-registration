@@ -868,7 +868,7 @@
 					"assignments": [
 						{
 							"variableTypeCheck": true,
-							"assignmentExpression": "\"User already Registered with this mail\"",
+							"assignmentExpression": "\"User already registered with this email.\"",
 							"assignedVariableName": "uiFeedback.errorMessage"
 						}
 					],
@@ -1026,7 +1026,7 @@
 					"assignments": [
 						{
 							"variableTypeCheck": true,
-							"assignmentExpression": "\"User already registered with this UserName\"",
+							"assignmentExpression": "\"User already registered with this username.\"",
 							"assignedVariableName": "uiFeedback.errorMessage"
 						}
 					],

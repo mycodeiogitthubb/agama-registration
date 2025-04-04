@@ -50,12 +50,12 @@ Repeat 6 times max
                               // User already registered with UID
                               Log "@info User already registered with uid: %" userName
                               // User already registered with UID
-                              uiFeedback.errorMessage = "User already registered with this UserName"
+                              uiFeedback.errorMessage = "User already registered with this username."
                     Otherwise
                          // User already registered with mail
                          Log "@info User already registered with mail: %" email
                          // User already Registered
-                         uiFeedback.errorMessage = "User already Registered with this mail"
+                         uiFeedback.errorMessage = "User already registered with this email."
                Otherwise
                     // Password and Confirm password doesn't match
                     Log "@trace Password and Confirm password doesn't match"
